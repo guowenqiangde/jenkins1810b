@@ -1,0 +1,19 @@
+{
+  "name": "jenkins1810b",
+  "version": "1.0.0",
+  "description": "jenkins study good good day day up",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/guowenqiangde/jenkins1810b.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/guowenqiangde/jenkins1810b/issues"
+  },
+  "homepage": "https://github.com/guowenqiangde/jenkins1810b#readme"
+}
